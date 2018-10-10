@@ -2089,6 +2089,7 @@ starfindersimple:
 stargatecoalition:
 - "Stargate Coalition"
 - "Stargate Coalition"
+- "Stargate"
 
 hawkmoonmongoose:
 - "Hawkmoon_mongoose"
@@ -2602,3 +2603,39 @@ wfrp4:
 - "WFRP4CharSheet"
 - "Warhammer Fantasy: 4th Edition"
 - "Warhammer"
+
+thefade2:
+  - "The Fade Tabletop 2e Sheet"
+  - "The Fade 2e"
+  - "Fade"
+
+mothership:
+  - "Mothership"
+  - "Mothership"
+  - "Mothership"
+
+strain:
+- "Strain"
+- "Strain"
+
+stargatesg1:
+  - "StargateSG-1"
+  - "Stargate SG 1"
+  - "Stargate"
+
+masseffect5e:
+  - "MassEffect_5e"
+  - "Mass Effect"
+  - "Dungeons and Dragons"
+
+marvelsaga:
+  - "Marvel_Saga"
+  - "Marvel Saga"
+
+sevendeadlysins:
+  - "Seven Deadly Sins"
+  - "Seven Deadly Sins"
+
+fragmentos:
+  - "Fragmentos"
+  - "Fragmentos"
